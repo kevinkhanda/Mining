@@ -5,6 +5,7 @@ Goal is to practice association rules mining.
 
 ## Requirements
 ```sh
+# git clone https://github.com/KKhanda/Mining.git
 $ pip install requirements.txt
 ```
 
